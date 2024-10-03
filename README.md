@@ -39,4 +39,4 @@ This Python project demonstrates the Fourier series approximation of a given fun
 
 Here's an example of how the Fourier series approximation looks for a square wave function:
 
-[image will load](output.jepg)
+[image will load](https://github.com/Ridham19/Forier/blob/main/output.jpeg)
