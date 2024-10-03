@@ -6,6 +6,7 @@ import window
 
 def f(x):
     return x*x  # function: x^2
+    # example for other funtions👇🏼
     # return x
     # return np.sin(x)
 
