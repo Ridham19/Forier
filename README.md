@@ -37,6 +37,6 @@ This Python project demonstrates the Fourier series approximation of a given fun
 
 ## Example
 
-Here's an example of how the Fourier series approximation looks for a square wave function:
+Here's an example of how the Fourier series approximation looks for a function:
 
-https://github.com/Ridham19/Forier/blob/main/output.jpeg
+![image will load](https://github.com/Ridham19/Forier/blob/main/output.jpeg)
