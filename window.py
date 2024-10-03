@@ -1,9 +1,6 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 
-# Function to close the window
-
-
 def main():
     def close_window():
         root.destroy()
