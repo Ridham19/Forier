@@ -50,5 +50,4 @@ plt.grid(True)
 plt.savefig("output.jpeg")
 plt.show()
 
-
 window.main()
